@@ -1,0 +1,57 @@
+# Blender 4.3.2 MTL File: 'sidelong_table_left.blend'
+# www.blender.org
+
+newmtl DarkMetal_New
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd worn_metal4_albedo.png
+map_Ns worn_metal4_Roughness.png
+map_refl worn_metal4_Metallic.png
+map_Bump -bm 1.000000 worn_metal4_Normal-ogl.png
+
+newmtl Metal032.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Metal032.png
+
+newmtl Metal_New
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Metal032_2K-JPG_Color.jpg
+map_Ns Metal032_2K-JPG_Roughness.jpg
+map_refl Metal032_2K-JPG_Metalness.jpg
+map_Bump -bm 1.000000 Metal032_2K-JPG_NormalGL.jpg
+
+newmtl plasticNew
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Plastic013A_1K-JPG_Color.jpg
+map_Ns Plastic013A_1K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 Plastic013A_1K-JPG_NormalGL.jpg
+
+newmtl plasticWhite.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
